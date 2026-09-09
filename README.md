@@ -12,7 +12,16 @@
   <a href="https://github.com/iamgaurav-create">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=iamgaurav-create&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+
+  <a href="https://www.linkedin.com/in/gaurav-mandal-8a5a762a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://gauravdevspace.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  </a>
+
+
 </p>
 
 </div>
@@ -133,58 +142,30 @@ Full-stack web application for online media downloading.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamgaurav-create&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iamgaurav-create&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgaurav-create&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+<img
+height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=iamgaurav-create&theme=tokyonight&hide_border=true"
+alt="Gaurav's GitHub Streak"
+/>
 
 </div>
 
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/iamgaurav-create/iamgaurav-create/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgaurav-create&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
 
 # 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/iamgaurav-create">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/gaurav-mandal-8a5a762a0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<a href="https://gauravdevspace.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 </div>
